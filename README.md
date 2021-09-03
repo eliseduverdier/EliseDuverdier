@@ -8,4 +8,5 @@
 
 <!--- - 🔖 or sometimes [writing on wikipedia](https://fr.wikipedia.org/wiki/Utilisatrice:EliseEtc)--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseduverdier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=eliseduverdier&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseduverdier&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
