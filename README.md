@@ -7,7 +7,4 @@
   - 🌿 or displaying random useless projects [here](https://eliseduverdier.fr)
 <!--- - 🔖 or sometimes [writing on wikipedia](https://fr.wikipedia.org/wiki/Utilisatrice:EliseEtc)--->
 
-<!---
-EliseDuverdier/EliseDuverdier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliseduverdier)](https://github.com/anuraghazra/github-readme-stats)-->
