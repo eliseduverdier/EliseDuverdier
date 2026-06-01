@@ -10,6 +10,7 @@
   - 📚 My [bookshelf](https://eliseduv.dev/bookshelf/user/elise) (ask if you want an account too)
   - 🐚 A [cellular automata generator](https://eliseduv.dev/cellular_automata)
   - 📖 A modern version of [Hypnerotomachia Poliphili](https://eliseduverdier.github.io/hypnerotomachia-poliphili/)
+  - 🎶 A [SolReSol translator](https://eliseduv.dev/solresol/)
   - ✒️ Raymond Queneaux cent mille millairds de [poèmes](https://eliseduv.dev/cent-mille-milliards-de-poemes)
   - 🤖 Some [creative coding](https://github.com/eliseduverdier/genuary) stuff
   <!--- 🔖 or writing stuff on [medium](https://medium.com/@eliseduverdier), [dev.to](https://dev.to/eliseduverdier), or [wikipedia](https://fr.wikipedia.org/wiki/Utilisatrice:EliseEtc)-->
