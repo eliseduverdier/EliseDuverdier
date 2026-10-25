@@ -19,10 +19,10 @@
 
 [Stats on wakatime/@eliseduverdier](https://wakatime.com/@eliseduverdier)
 
-
+<!--
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=eliseduverdier&layout=compact&langs_count=10&hide=other)](https://github.com/anuraghazra/github-readme-stats)
 
-[![my github trophies](https://github-profile-trophy.vercel.app/?username=eliseduverdier&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![my github trophies](https://github-profile-trophy.vercel.app/?username=eliseduverdier&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseduverdier&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
